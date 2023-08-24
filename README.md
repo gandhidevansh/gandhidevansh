@@ -1,5 +1,5 @@
 ### Greetings, Security Enthusiasts! 👋
-![Cover](https://github.com/gandhidevansh/gandhidevansh/assets/31349598/66195b04-d890-48ab-b501-e751ae8c6874)
+![Cover](https://github.com/gandhidevansh/gandhidevansh/assets/31349598/9d09aa5c-27d0-4409-97ce-095adf4b95ef)
 
 🔐 Cybersecurity Practitioner | CEH Certified 🚀
 
